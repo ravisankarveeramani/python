@@ -1,0 +1,8 @@
+a = int(input("enter the value a "))
+b = int(input("Enter the value of b "))
+print("the a , b ",a,b)
+print(f"the sum = {a+b}")
+print("the difference = ",a-b)
+print("the multiple = ",a*b)
+print("the division = ",a/b)
+print("the fdivision = ",a//b)
